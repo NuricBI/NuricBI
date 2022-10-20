@@ -124,3 +124,7 @@ You can also drill through on any object used and consult the reports, pages and
 ### Download Tabular Model Cleaner tool here 👇:
 [Tabular Model Cleaner tool.zip](https://github.com/NuricBI/NuricBI/files/9830843/Tabular.Model.Cleaner.tool.zip)
 
+### Download Essential Checklist to Keep your Power BI Solutions Optimized here 👇:
+[Essential Checklist to Keep your Power BI Solutions Optimized.xlsx](https://github.com/NuricBI/NuricBI/files/9831560/Essential.Checklist.to.Keep.your.Power.BI.Solutions.Optimized.xlsx)
+
+
