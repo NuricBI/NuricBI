@@ -122,5 +122,5 @@ You can also drill through on any object used and consult the reports, pages and
 ![used objects](https://user-images.githubusercontent.com/47791555/196969052-2e7bb2d3-fbb4-4908-a5c0-5039136e6018.jpg)
 
 ### Download Tabular Model Cleaner tool here 👇:
-[Tabular Model Cleaner tool.zip](https://github.com/NuricBI/NuricBI/files/9830843/Tabular.Model.Cleaner.tool.zip)
+[Tabular Models Cleaner tool.zip](https://github.com/NuricBI/NuricBI/files/10865237/Tabular.Models.Cleaner.tool.zip)
 
